@@ -1,0 +1,7 @@
+爬网页的流程
+
+1.选着要爬的网址 (url)
+2.使用 python 登录上这个网址 (urlopen等)
+3.读取网页信息 (read() 出来)
+4.将读取的信息放入 BeautifulSoup
+5.使用 BeautifulSoup 选取 tag 信息等 (代替正则表达式)

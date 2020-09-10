@@ -1,0 +1,2 @@
+1. Python 的自带模块 urllib, 用于提交网页请求.
+2. Python 外部模块 requests，解决向网页发送信息, 上传图片等问题
