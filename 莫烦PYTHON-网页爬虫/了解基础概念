@@ -1,2 +1,4 @@
 1. Python 的自带模块 urllib, 用于提交网页请求.
 2. Python 外部模块 requests，解决向网页发送信息, 上传图片等问题
+3. Cookie，是存储在客户端数据，进行Session跟踪的一串地址.
+4. Session对象存储特定用户会话所需的属性及配置信息。
